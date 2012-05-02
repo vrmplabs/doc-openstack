@@ -1,6 +1,7 @@
 #!/bin/bash
 # From http://www.hastexo.com/resources/docs/installing-openstack-essex-20121-ubuntu-1204-precise-pangolin
 # Modified by Emilien Macchi
+# Please send me feedback at emilien.macchi@gmail.com
 # Thank's to Martin !
 
 ADMIN_PASSWORD=${ADMIN_PASSWORD:-password}
